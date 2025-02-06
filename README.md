@@ -1,5 +1,7 @@
 Blinkit Power BI Dashboard Project
+
 Project Statement
+
 Context:
 Blinkit, a quick-commerce platform, enables users to order groceries and essentials for 
 delivery in minutes. For businesses operating at this scale, effective data management and 
